@@ -1,4 +1,4 @@
-module rate-limit
+module github.com/dickyaryag6/limidder
 
 go 1.16
 
