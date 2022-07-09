@@ -1,4 +1,4 @@
-package ratelimit
+package limidder
 
 import (
 	"fmt"
